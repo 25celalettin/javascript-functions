@@ -2,4 +2,4 @@
 Custom Javascript Functions
 
 # Content
-Custom javascipt replace function (only using for and forEach) 
+- Custom javascipt replace function (only using for and forEach) 
